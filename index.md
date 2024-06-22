@@ -168,7 +168,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
     <td class="tg-0lax">Legacy DL models, transfer learning and LLMs. Project work</td>
   </tr>
   <tr>
-    <td class="tg-amwm"><b>Fri 28 June</b></td>
+    <td class="tg-amwm"><b>Friday 28 June</b></td>
     <td class="tg-0lax">Project presentations. Final Quiz</td>
   </tr>
 </table>
@@ -184,36 +184,6 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 
 
-
-
-<table>
-  <tr>
-    <th>Week</th>
-    <th>Day</th>
-    <th>Content</th>
-  </tr>
-  <tr>
-    <td rowspan="5">Week 2 <br> (in-person)</td>
-    <td>Mon 24 June</td>
-    <td>Introduction to DL for Health Sciences – use cases and example research studies; MLP implementation, model training and evaluation. Introduction to Google Collab using Python. Lab1</td>
-  </tr>
-  <tr>
-    <td>Tue 25 June</td>
-    <td>CNN and RNN implementation, saving and reusing models. Lab4</td>
-  </tr>
-  <tr>
-    <td>Wed 26 June</td>
-    <td>Project proposal presentations. Lab5</td>
-  </tr>
-  <tr>
-    <td>Thu 27 June</td>
-    <td>Legacy DL models, transfer learning and LLMs. Project work</td>
-  </tr>
-  <tr>
-    <td>Fri 28 June</td>
-    <td>Project presentations. Final Quiz</td>
-  </tr>
-</table>
 
 </body>
 </html>
