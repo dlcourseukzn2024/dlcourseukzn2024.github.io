@@ -136,7 +136,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
   <source src="movie.ogg" type="video/ogg">
   Your browser does not support the video tag.
 </video> -->
-
+<!--
 <h4> Day 2:</h4>
 <a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/bias_confound.pdf" download> Bias Confound - Prof. Khan </a> <br>
 <a href="https://dlcourseukzn.github.io/PDFLectures/VirtualBootCamp/Causal modelling versus predictive modelling.pdf" download> Causal modelling versus predictive modelling - Dr. Stephen </a>
@@ -194,7 +194,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <br>
 <!-- <h3> Please complete the following Quiz </h3> -->
 <!-- <a href="https://forms.gle/GdCLBXn3dtLunKEz8" target="_blank"> Quiz </a> <br> -->
-
+<!--
 <a href="https://www.qgis.org/en/site/forusers/download.html" target="_blank"> QGIS Website (for software download) - Dr. Sandra </a> <br>
 
 <a href="https://cloud.rssgmbh.de/index.php/s/bsL832bCPELGzKj" target="_blank"> Results and two sentinel images for the exercise (Mon, 3rd July) - Dr. Sandra </a> <br>
@@ -215,7 +215,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab4_solutions.ipynb" download>  Lab4 solutions - Dr. Mohanad </a> <br>
 
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lecture_13 2023 - Problems with RNNs, Transformers.pdf" download> Lecture_13 2023 - Problems with RNNs, Transformers - Prof. Santiago </a> <br> -->
-
+<!--
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5.ipynb" download> Lab 5 -   </a> <br>
 <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/Lab5_solutions.ipynb" download>  Lab5 solutions - Dr. Mohanad </a> <br>
 
