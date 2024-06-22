@@ -143,9 +143,9 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 
 <table id="inpersonw1">
-  <tr>
+ <!-- <tr>
     <th colspan="7" style="background-color: #304C75;"><b><b><b><b>Week 1</b></b></b></b></th>
-  </tr>
+  </tr> -->
   <tr>
     <th>Day</th>
     <th><b>Content</b></th>
