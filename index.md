@@ -141,7 +141,7 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 
 
-
+<!--
 <h2>Virtual BootCamp</h2>
 
 <table id="virtual">
@@ -195,6 +195,8 @@ Below is an outline of the current plan for course topics and schedule. It is in
 
 
 <h2>In-person Lectures</h2>
+
+-->
 
 <table id="inpersonw1">
   <tr>
