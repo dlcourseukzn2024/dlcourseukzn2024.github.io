@@ -227,7 +227,6 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <!-- <a href="https://dlcourseukzn.github.io/PDFLectures/Inperson/ProblemSet2.ipynb" download>  ProblemSet2.ipynb </a> --> <br>
 
 
--->
 
 </body>
 </html>
