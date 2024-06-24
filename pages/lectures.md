@@ -118,6 +118,9 @@ title: Lectures
 
 Below you'll find a list of links to lecture notes and code as well as links to homework assignments, lab session materials, and additional reference material.
 
+<h4> Day 1:</h4>
+<a href="https://dlcourseukzn2024.github.io/PDFLectures/2024DSI_DL_W2L1_DNNs.pdf" download> Lecture 1 - Prof. Mandla Gwetu </a> <br>
+<a href="https://dlcourseukzn2024.github.io/PDFLectures/2024DSI_DL_W2L1_DNNs.ipynb" download> Notebook 1 - Prof. Mandla Gwetu </a>
 
 <!--
 <h4> Slack Channel </h4>
