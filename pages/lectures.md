@@ -123,6 +123,8 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://dlcourseukzn2024.github.io/PDFLectures/2024DSI_DL_W2L1_DNNs.ipynb" download> Notebook 1 - Prof. Mandla Gwetu </a> <br>
 <!--
 <a href="https://dlcourseukzn2024.github.io/PDFLectures/How to mount the google drive.zip" download> How to mount the google drive </a>
+<a href="https://dlcourseukzn2024.github.io/PDFLectures/Lab1.ipynb" download> Lab1 </a>
+<a href="https://dlcourseukzn2024.github.io/PDFLectures/Lab1_solution.ipynb" download> Lab1 Solution </a>
 -->
 
 
