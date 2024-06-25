@@ -135,8 +135,8 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://dlcourseukzn2024.github.io/PDFLectures/2024DSI_DL_W2L2_CNN_RNNs.pdf" download> Lecture 1 - Prof. Mandla Gwetu </a> <br>
 <a href="https://dlcourseukzn2024.github.io/PDFLectures/CNN_basic_Eg.ipynb" download> Notebook 1 - Prof. Mandla Gwetu </a> <br>
 <a href="https://dlcourseukzn2024.github.io/PDFLectures/RNN_Implementation_Demonstration.ipynb" download> Notebook 2 - Prof. Mandla Gwetu </a> <br>
-<!--
 <a href="https://dlcourseukzn2024.github.io/PDFLectures/Lab2.ipynb" download> Lab2 </a> <br>
+<!--
 <a href="https://dlcourseukzn2024.github.io/PDFLectures/Lab2_solutions.ipynb" download> Lab2 Solutions </a>
 -->
 
