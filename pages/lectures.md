@@ -126,7 +126,7 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://dlcourseukzn2024.github.io/PDFLectures/How to mount the google drive.zip" download> How to mount the google drive </a> <br>
 <a href="https://dlcourseukzn2024.github.io/PDFLectures/transformedBRCA(1).csv" download> Breast Cancer Dataset </a> <br>
 <a href="https://dlcourseukzn2024.github.io/PDFLectures/Lab1.ipynb" download> Lab1 </a> <br>
-<a href="https://dlcourseukzn2024.github.io/PDFLectures/Lab1_solution.ipynb" download> Lab1 Solution </a>
+<a href="https://dlcourseukzn2024.github.io/PDFLectures/Lab1_solution.zip" download> Lab1 Solution </a>
 
 
 
