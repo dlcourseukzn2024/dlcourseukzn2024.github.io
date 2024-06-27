@@ -137,6 +137,12 @@ Below you'll find a list of links to lecture notes and code as well as links to 
 <a href="https://dlcourseukzn2024.github.io/PDFLectures/Lab2.ipynb" download> Lab2 </a> <br>
 <a href="https://dlcourseukzn2024.github.io/PDFLectures/Lab2_solutions.ipynb" download> Lab2 Solutions </a>
 
+<h4> Day 4:</h4>
+<a href="https://dlcourseukzn2024.github.io/PDFLectures/VGG16Demo.ipynb" download> VGG16Demo - Prof. Mandla Gwetu </a> <br>
+<a href="https://dlcourseukzn2024.github.io/PDFLectures/Word2VecRNNDemo.ipynb" download> Word2VecRNNDemo - Prof. Mandla Gwetu </a> <br>
+
+
+
 
 
 
